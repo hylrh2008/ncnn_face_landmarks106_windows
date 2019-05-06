@@ -3,7 +3,8 @@
 
 This project is train by Pytorch used mobilenetv2/shufflenetv2,face detect method used mtcnn.
 
-TODO:1.add test demo
+#TODO:
+     1.add test demo
      2.add face tracking
      3.add training model
 ![image](https://github.com/hylrh2008/ncnn_face_landmarks106_windows/blob/master/test.gif)
